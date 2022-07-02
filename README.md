@@ -1,6 +1,7 @@
 # ShuffleNet1D
 One dimensional ShuffleNet model used for arrhythmia classification
 Structure of project files
+
 MATLAB: To prepare training and testing dataset from the dataset .mat files
 * segmentation_MIT_BIH_flexibleSTRIDE.m
 * ecg_all.mat
